@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{81C21D06-5FA6-44CB-E7B4-93AB8CBFFDFA}</ProjectGuid>
+    <ProjectGuid>{7B062FBF-9D07-D163-F69D-677882D513A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,6 +48,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\2week\method.cs" />
+     <Compile Include="Assets\2week\class_1.cs" />
+     <Compile Include="Assets\2week\class_2.cs" />
+     <Compile Include="Assets\2week\class_3.cs" />
+     <Compile Include="Assets\2week\Property.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -538,64 +542,64 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Runtime">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_2-week/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>D:/대학/3학년_1학기/BCSD_Practice/BCSD_practice/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

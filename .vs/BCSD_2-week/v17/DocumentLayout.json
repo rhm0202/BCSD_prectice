@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\",
+  "WorkspaceRootPath": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C21D06-5FA6-44CB-E7B4-93AB8CBFFDFA}|Assembly-CSharp.csproj|d:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\bcsd_practice\\bcsd_2-week\\assets\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C21D06-5FA6-44CB-E7B4-93AB8CBFFDFA}|Assembly-CSharp.csproj|solutionrelative:assets\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C21D06-5FA6-44CB-E7B4-93AB8CBFFDFA}|Assembly-CSharp.csproj|d:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\bcsd_practice\\bcsd_practice\\assets\\2week\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C21D06-5FA6-44CB-E7B4-93AB8CBFFDFA}|Assembly-CSharp.csproj|solutionrelative:assets\\2week\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\Assets\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +23,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "method.cs",
-              "DocumentMoniker": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\Assets\\method.cs",
-              "RelativeDocumentMoniker": "Assets\\method.cs",
-              "ToolTip": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\Assets\\method.cs",
-              "RelativeToolTip": "Assets\\method.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_practice\\Assets\\2week\\method.cs",
+              "RelativeDocumentMoniker": "Assets\\2week\\method.cs",
+              "ToolTip": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_practice\\Assets\\2week\\method.cs",
+              "RelativeToolTip": "Assets\\2week\\method.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T03:12:15.71Z",
+              "WhenOpened": "2025-03-23T07:46:36.31Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "method.cs",
+              "DocumentMoniker": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\Assets\\method.cs",
+              "RelativeDocumentMoniker": "..\\BCSD_2-week\\Assets\\method.cs",
+              "ToolTip": "D:\\\uB300\uD559\\3\uD559\uB144_1\uD559\uAE30\\BCSD_Practice\\BCSD_2-week\\Assets\\method.cs",
+              "RelativeToolTip": "..\\BCSD_2-week\\Assets\\method.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:12:15.71Z"
             }
           ]
         }

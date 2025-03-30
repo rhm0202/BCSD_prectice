@@ -53,6 +53,10 @@
      <Compile Include="Assets\2week\Property.cs" />
      <Compile Include="Assets\2week\method.cs" />
      <Compile Include="Assets\3week\quiz.cs" />
+     <Compile Include="Assets\3week\HashtableExercise.cs" />
+     <Compile Include="Assets\3week\ArrayListExercise.cs" />
+     <Compile Include="Assets\3week\StackExercise.cs" />
+     <Compile Include="Assets\3week\QueueExercise.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

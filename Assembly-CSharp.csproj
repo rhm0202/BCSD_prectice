@@ -52,7 +52,6 @@
      <Compile Include="Assets\2week\class_1.cs" />
      <Compile Include="Assets\2week\Property.cs" />
      <Compile Include="Assets\2week\method.cs" />
-     <Compile Include="Assets\3week\quiz.cs" />
      <Compile Include="Assets\3week\HashtableExercise.cs" />
      <Compile Include="Assets\3week\ArrayListExercise.cs" />
      <Compile Include="Assets\3week\StackExercise.cs" />

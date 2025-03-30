@@ -133,14 +133,14 @@ public class Slime : Entity
     }
 }
 */
-
+/*
 //인터페이스의 예
 interface IMovingEntity
 {
     void MoveTo(Vector3 destination);
 
-}
-
+}*/
+/*
 public class Goblin : IMovingEntity
 {
     public void MoveTo(Vector3 destination)
@@ -162,14 +162,15 @@ public class Butterfly : IMovingEntity
         Debug.Log($"{destination}까지 날아서 이동");
     }
 }
-
+*/
+/*
 public class class_2 : MonoBehaviour
 {
     /*
     public Entity entity;
     public Entity goblin;
     public Entity slime;
-    */
+    
 
     private IMovingEntity goblin;
     private IMovingEntity slime;
@@ -208,7 +209,7 @@ public class class_2 : MonoBehaviour
         goblin.Attact(slime);
         slime.Attact(goblin);
         */
-
+        /*
         goblin = new Goblin();
         slime = new Slime();
         butterfly = new Butterfly();
@@ -219,3 +220,4 @@ public class class_2 : MonoBehaviour
 
     }
 }
+*/

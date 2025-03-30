@@ -6,7 +6,7 @@ public class Player
     private int currentHP;
     public int CurrentHP
     {
-        //get => currentHP;
+        get => currentHP;
 
         set
         {
